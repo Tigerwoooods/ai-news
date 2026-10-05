@@ -1,10 +1,4 @@
 {
- "https://huggingface.co/blog/Hcompany/holo4": "2026-09-28T11:30:16.957363+00:00",
- "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website": "2026-09-28T11:30:17.070906+00:00",
- "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/": "2026-09-28T11:30:17.169370+00:00",
- "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music": "2026-09-28T11:30:17.169400+00:00",
- "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/": "2026-09-28T11:30:17.169408+00:00",
- "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/": "2026-09-28T11:30:17.267210+00:00",
  "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal": "2026-09-29T11:10:36.000925+00:00",
  "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/": "2026-09-29T11:10:36.188356+00:00",
  "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": "2026-09-29T11:10:36.424104+00:00",
@@ -139,5 +133,12 @@
  "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/": "2026-10-04T10:58:10.125927+00:00",
  "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview": "2026-10-04T10:58:10.125935+00:00",
  "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/": "2026-10-04T10:58:10.125940+00:00",
- "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/": "2026-10-04T10:58:10.280842+00:00"
+ "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/": "2026-10-04T10:58:10.280842+00:00",
+ "https://openai.com/index/new-chatgpt-ads-format-and-measurement": "2026-10-05T12:05:56.585070+00:00",
+ "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/": "2026-10-05T12:05:56.740790+00:00",
+ "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/": "2026-10-05T12:05:56.949986+00:00",
+ "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought": "2026-10-05T12:05:56.950014+00:00",
+ "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true": "2026-10-05T12:05:56.950024+00:00",
+ "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft": "2026-10-05T12:05:56.950031+00:00",
+ "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/": "2026-10-05T12:05:57.144749+00:00"
 }
