@@ -1,19 +1,4 @@
 {
- "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos": "2026-10-10T10:59:55.971968+00:00",
- "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/": "2026-10-10T10:59:56.096484+00:00",
- "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/": "2026-10-10T10:59:56.220839+00:00",
- "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip": "2026-10-10T10:59:56.349066+00:00",
- "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/": "2026-10-10T10:59:56.472259+00:00",
- "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai": "2026-10-10T10:59:56.472278+00:00",
- "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots": "2026-10-10T10:59:56.472290+00:00",
- "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding": "2026-10-10T10:59:56.472299+00:00",
- "https://huggingface.co/blog/allenai/impactful-scheduling": "2026-10-10T10:59:56.472306+00:00",
- "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/": "2026-10-10T10:59:56.602946+00:00",
- "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/": "2026-10-10T10:59:56.602955+00:00",
- "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/": "2026-10-10T10:59:56.602959+00:00",
- "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/": "2026-10-10T10:59:56.602964+00:00",
- "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/": "2026-10-10T10:59:56.602968+00:00",
- "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/": "2026-10-10T10:59:56.602973+00:00",
  "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised": "2026-10-11T11:16:37.934103+00:00",
  "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet": "2026-10-11T11:16:38.119595+00:00",
  "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit": "2026-10-11T11:16:38.251531+00:00",
@@ -131,5 +116,10 @@
  "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/": "2026-10-17T09:03:02.319588+00:00",
  "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/": "2026-10-17T09:03:02.486783+00:00",
  "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/": "2026-10-17T09:03:02.486788+00:00",
- "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/": "2026-10-17T09:03:02.486790+00:00"
+ "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/": "2026-10-17T09:03:02.486790+00:00",
+ "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites": "2026-10-18T09:21:42.555368+00:00",
+ "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web": "2026-10-18T09:21:42.656569+00:00",
+ "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/": "2026-10-18T09:21:42.756651+00:00",
+ "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/": "2026-10-18T09:21:42.756673+00:00",
+ "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/": "2026-10-18T09:21:42.858582+00:00"
 }
