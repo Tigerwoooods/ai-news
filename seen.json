@@ -1,18 +1,4 @@
 {
- "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast": "2026-11-14T11:57:31.954515+00:00",
- "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search": "2026-11-14T11:57:32.107293+00:00",
- "https://openai.com/index/introducing-chatgpt-wallet": "2026-11-14T11:57:32.217943+00:00",
- "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/": "2026-11-14T11:57:32.318003+00:00",
- "https://huggingface.co/blog/ggml-org/llama-cpp-v1": "2026-11-14T11:57:32.318022+00:00",
- "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on": "2026-11-14T11:57:32.318029+00:00",
- "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/": "2026-11-14T11:57:32.318032+00:00",
- "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": "2026-11-14T11:57:32.421235+00:00",
- "https://huggingface.co/blog/allenai/xybench": "2026-11-14T11:57:32.421238+00:00",
- "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet": "2026-11-14T11:57:32.421243+00:00",
- "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/": "2026-11-14T11:57:32.421248+00:00",
- "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/": "2026-11-14T11:57:32.421251+00:00",
- "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/": "2026-11-14T11:57:32.421253+00:00",
- "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": "2026-11-14T11:57:32.421255+00:00",
  "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/": "2026-11-15T12:32:11.176027+00:00",
  "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/": "2026-11-15T12:32:11.279070+00:00",
  "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview": "2026-11-15T12:32:11.381851+00:00",
@@ -147,5 +133,13 @@
  "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/": "2026-11-20T13:51:57.734623+00:00",
  "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/": "2026-11-20T13:51:57.734643+00:00",
  "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/": "2026-11-20T13:51:57.734646+00:00",
- "https://www.anthropic.com/news/ipo-close": "2026-11-20T13:51:57.734649+00:00"
+ "https://www.anthropic.com/news/ipo-close": "2026-11-20T13:51:57.734649+00:00",
+ "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax": "2026-11-21T13:15:57.624632+00:00",
+ "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": "2026-11-21T13:15:57.795957+00:00",
+ "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": "2026-11-21T13:15:57.969808+00:00",
+ "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/": "2026-11-21T13:15:58.148757+00:00",
+ "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast": "2026-11-21T13:15:58.148785+00:00",
+ "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/": "2026-11-21T13:15:58.148791+00:00",
+ "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/": "2026-11-21T13:15:58.148796+00:00",
+ "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/": "2026-11-21T13:15:58.318536+00:00"
 }
